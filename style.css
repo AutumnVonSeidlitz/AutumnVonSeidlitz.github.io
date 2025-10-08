@@ -31,7 +31,7 @@ p
     width: 100%;
     margin-top: 60px;
     margin-bottom: 50px;
-    max-height: 900px;
+    max-height: 1000px;
     height: auto; 
 
     /* content:url("Images/mobileTest.jpeg"); How to change image in css*/
@@ -455,7 +455,7 @@ footer
     #landscape
     {
         padding-top: 40px;
-        content:url("Images/mobileTest.jpeg");
+        content:url("Images/mobiileFinal.jpg");
     }
     
     #img1
@@ -549,6 +549,6 @@ footer
 @media screen and (max-width: 510px) {
     #landscape
     {
-        content:url("Images/mobileTestforsmall.jpeg");
+        /* content:url("Images/mobileTestforsmall.jpeg"); */
     }
 }
